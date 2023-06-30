@@ -1,0 +1,13 @@
+Juan Perez,C,200.00
+Juan Perez,P,100.00
+Maria Lopez,C,50.00
+Carlos Ramirez,C,500.00
+Carlos Ramirez,P,300.00
+Laura Fernandez,P,200.00
+Pedro Gomez,C,100.00
+Ana Torres,C,300.00
+Luis Hernandez,P,1000.00
+Sofia Rodriguez,P,500.00
+Diego Sanchez,C,200.00
+Diego Sanchez,C,150.00
+Lucia Martinez,P,300.00
